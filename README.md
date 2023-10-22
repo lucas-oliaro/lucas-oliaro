@@ -13,20 +13,5 @@ I'm a Data Science student at the National University of San Martin (UNSAM) 🎓
 - **Tools:** Power BI, Office Suite
 - **Languages:** Intermediate English
 
-## 📚 Education
-- **Bachelor's in Data Science, UNSAM** Start: 2022 - Ongoing
-
-- **Diploma in Data Science and Artificial Intelligence, UNSAM**  2023
-
-- **High School: Bachelor of Economics, Management, and Organization, E.M.P.A.S** 2013-2018
-
-## 📚 Courses
-- **Python Programming, School of Science and Technology (ECyT – UNSAM)**
-- **CS50’s Introduction to Computer Science, HarvardX**
-- **CS50’s Introduction to Programming with Python, HarvardX**
-
-## 💼 Work Experience
-- **Artificial Intelligence Evaluation Internship, International Center for Advanced Studies (ICAS)**
-
 ## 📩 Contact
 - Feel free to contact me via email or through LinkedIn to discuss job opportunities, collaborations, or simply to connect!
