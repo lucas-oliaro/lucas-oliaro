@@ -14,14 +14,11 @@ I'm a Data Science student at the National University of San Martin (UNSAM) 🎓
 - **Languages:** Intermediate English
 
 ## 📚 Education
-- **Bachelor's in Data Science, UNSAM** 
-  - Start: 2022 - Ongoing
+- **Bachelor's in Data Science, UNSAM** Start: 2022 - Ongoing
 
-- **Diploma in Data Science and Artificial Intelligence, UNSAM** 
-  - 2023
+- **Diploma in Data Science and Artificial Intelligence, UNSAM**  2023
 
-- **High School: Bachelor of Economics, Management, and Organization, E.M.P.A.S** 
-  - 2013-2018
+- **High School: Bachelor of Economics, Management, and Organization, E.M.P.A.S** 2013-2018
 
 ## 📚 Courses
 - **Python Programming, School of Science and Technology (ECyT – UNSAM)**
